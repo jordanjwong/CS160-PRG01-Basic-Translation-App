@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CS160 Translator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="translate_from">Translate from:</string>
+    <string name="translation">Translation:</string>
+    <string name="update">Update Phrases!</string>
+    <string name="translate">Translate!</string>
+    <string name="to">Translate to:</string>
+    <string name="to2">Translate to:</string>
+    <string name="translation_goes_here">Translation goes here!</string>
+    <string name="phrases">Select a phrase:</string>
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Zulu</item>
+    </string-array>
+    <string name="title_activity_translate">TranslateActivity</string>
+
+    <string-array name="english_phrases">
+        <item>Hello</item>
+        <item>How much?</item>
+        <item>Please</item>
+        <item>Thank you</item>
+        <item>Goodbye</item>
+    </string-array>
+
+    <string-array name="spanish_phrases">
+        <item>Hola</item>
+        <item>Cuánto?</item>
+        <item>Por favor</item>
+        <item>Gracias</item>
+        <item>Adiós</item>
+    </string-array>
+
+    <string-array name="zulu_phrases">
+        <item>Sawubona</item>
+        <item>Malini?</item>
+        <item>Ngiyacela</item>
+        <item>Ngiyabonga</item>
+        <item>Hamba Kahle</item>
+    </string-array>
+</resources>
